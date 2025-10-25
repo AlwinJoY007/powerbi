@@ -27,12 +27,3 @@ A collection of Power BI practice assignments, reports, and datasets.
 - Build interactive visuals with slicers/filters.
 - Validate results against assignment requirements.
 
-## Notes
-- If a report shows broken links, update file paths in Power BI Desktop to match your local environment.
-- Screenshots or brief write-ups can be placed in each assignment folder for quick review.
-
-## License
-Specify a license here if applicable.
-
-## Author
-Add your name and contact (optional).
